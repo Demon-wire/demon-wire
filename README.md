@@ -1,5 +1,6 @@
 ## Hi, I'm Alexander
-A Hobby Developer and Streamer you can contact me on: <a href="https://discord.gg/WRxfsztjFm"><img src="https://img.shields.io/badge/discord-4B32C3.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+A Hobby Developer and Streamer you can contact me on: 
+<a href="https://discord.gg/WRxfsztjFm"><img src="https://img.shields.io/badge/discord-4B32C3.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 
 <p>  
@@ -28,7 +29,6 @@ A Hobby Developer and Streamer you can contact me on: <a href="https://discord.g
     alt="python"
     src="https://github.com/rudyapollo/rudyapollo/raw/main/img/python-original.svg"
     />
-</p>
     <img
     style="width: 50px; height: 50px"
     alt="mysql"
