@@ -1,5 +1,7 @@
 ## Hi, I'm Alexander
-A Hobby Developer and Streamer you can contact me on: 
+A Hobby Developer and Streamer: Mad_LX0
+<br/>
+You can contact me on: 
 <br/>
 <a href="https://discord.gg/WRxfsztjFm"><img src="https://img.shields.io/badge/discord-4B32C3.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
