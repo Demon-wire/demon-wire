@@ -27,27 +27,9 @@
   <br/>           
 
   <h3 align="left">🛠 Languages & Tools</h3>                                                                  
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782
-  a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="40" height="40"/>       
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782
-  a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>               
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782
-  a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>          
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782
-  a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>            
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782
-  a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>             
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782
-  a107b75eab178/svg/Skills/FrontendLibrary/react-original-wordmark.svg" alt="React Native" width="40"         
-  height="40"/>   
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782
-  a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>         
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782
-  a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>       
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782
-  a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>                         
-  </p>            
+  <p align="left">                                                                                            
+    <img src="https://skillicons.dev/icons?i=js,python,html,css,tailwind,react,mysql,git,androidstudio" />    
+  </p>         
                                                                                                               
   <br/>           
 
