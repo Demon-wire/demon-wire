@@ -1,5 +1,5 @@
 ## Hi, I'm Alexander
-A Hobby Developer and Streamer: Mad_LX0
+I'm a 14 years old Hobby Developer and Streamer: Mad_LX0
 <br/>
 You can contact me on: 
 <br/>
