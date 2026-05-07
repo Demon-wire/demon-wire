@@ -8,7 +8,7 @@
                                                                                                               
   <p align="center">
     🧑‍💻14-year-old Hobby Developer & Streamer <br/>
-    📱 Currently building <strong>FinanzApp</strong> – a local finance app for Android <br/>                  
+    📱 Currently building <strong>Teenager OS</strong> – a Linux Distro especially for teenager<br/>                  
     🎮 Streaming as <strong>Mad_LX0</strong>                                                                  
   </p>                                                                                                        
                                                                                                               
