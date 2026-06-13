@@ -1,15 +1,14 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom
   _up.svg" width="100%" />
                                                                                                               
-  <h1 align="center">Hi 👋, I'm Alexander</h1>                                                                
+  <h1 align="center">I'm Alexander</h1>                                                                
   <h3 align="center">Just building things that make sense to me</h3>                                          
                                                                                                               
   <br/>           
                                                                                                               
   <p align="center">
-    🧑‍💻14-year-old Hobby Developer & Streamer <br/>
-    📱 Currently building <strong>Teenager OS</strong> – a Linux Distro especially for teenager<br/>                  
-    🎮 Streaming as <strong>Mad_LX0</strong>                                                                  
+    14-year-old Hobby Developer & Streamer <br/>
+    Currently building <strong>Teenager OS</strong> – a Linux Distro especially for teenager<br/>                                                                  
   </p>                                                                                                        
                                                                                                               
   <br/>                                                                                                       
