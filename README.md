@@ -27,7 +27,7 @@
 
   <h3 align="left">🛠 Languages & Tools</h3>                                                                  
   <p align="left">                                                                                            
-    <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,react,mysql,git,androidstudio" />    
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,tailwind,react,mysql,git,androidstudio" />    
   </p>         
                                                                                                               
   <br/>           
